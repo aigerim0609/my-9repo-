@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+   margin: 0;
+}
+.main{
+    border: 5px solid yellow;
+    height: 1000px;
+    background-color: blueviolet;
+    text-align: center ;
+    
+}
+b{
+    color: dodgerblue;
+}
+h2{
+    color: azure;
+    text-transform: uppercase;
+}
+.link{
+    display: block;
+    border: 1px solid goldenrod;
+    max-width: 320px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    color: bisque;
+    font-size: none;
+    padding-top: 10px;
+    transition:300ms;
+    
+
+}
